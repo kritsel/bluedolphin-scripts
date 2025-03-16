@@ -1,0 +1,293 @@
+;;;;;;
+Fullname;Firstname;Lastname;Work Email Address;Business Title;Manager;Active Status
+Daniel Schmelzer;Daniel;Schmelzer;Daniel.Schmelzer@kramp.com;Logistics Data Analyst;Michael Bergmann;Yes
+Oliver Meisch;Oliver;Meisch;Oliver.Meisch@kramp.com;Manager Business Intelligence;Mark Friedl;Yes
+Marco Brokking;Marco;Brokking;Marco.Brokking@kramp.com;Skill Group Manager;Ebel Noorman;Yes
+Rick Elferink;Rick;Elferink;Rick.Elferink@kramp.com;System Administrator;Alfons Giesen;Yes
+Frank-Jan Franken;Frank-Jan;Franken;Frank-Jan.Franken@kramp.com;Database Administrator;Alfons Giesen;Yes
+Alfons Giesen;Alfons;Giesen;Alfons.Giesen@kramp.com;Infrastructure Manager;Ebel Noorman;Yes
+Henk van der Heijden;Henk;Heijden;Henk.van.der.Heijden@kramp.com;IT Information Analyst;Marco Brokking;Yes
+Louis Leurs;Louis;Leurs;Louis.Leurs@kramp.com;Software Engineer;Melissa de Ruiter;Yes
+Stef Michielsen;Stef;Michielsen;Stef.Michielsen@kramp.com;System Engineer;Alfons Giesen;Yes
+Diana Nica;Diana;Nica;Diana.Nica@kramp.com;IT Solution Developer;Jorge Contreras;Yes
+Wil Schipper;Wil;Schipper;Wil.Schipper@kramp.com;System Engineer;Alfons Giesen;Yes
+Eric Smees;Eric;Smees;Eric.Smees@kramp.com;System Administrator;Alfons Giesen;Yes
+Ebel Noorman;Ebel;Noorman;Ebel.Noorman@kramp.com;Director IT – Operations & Fulfilment;Olivier Luxon;Yes
+Jos Nieuwenhuis;Jos;Nieuwenhuis;Jos.Nieuwenhuis@kramp.com;Enterprise Architect;Radek Kowalski;Yes
+John Walvoort;John;Walvoort;John.Walvoort@kramp.com;Transformation Manager;Ebel Noorman;Yes
+Koen Meulman;Koen;Meulman;Koen.Meulman@kramp.com;IT Support Engineer;Mark Everts;Yes
+Mirjam Graff;Mirjam;Graff;mirjam.graff@kramp.com;IT Support Engineer;Boris Vernooijs;Yes
+Radek Kowalski;Radek;Kowalski;Radoslaw.Kowalski@kramp.com;Head of Enterprise Architecture;Olivier Luxon;Yes
+Ronnie Verheij;Ronnie;Verheij;Ronnie.Verheij@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Martin Jansen;Martin;Jansen;Martin.Jansen@kramp.com;Software Engineer;Melissa de Ruiter;Yes
+Erik Kolthof;Erik;Kolthof;Erik.Kolthof@kramp.com;IT Information Analyst;Boris Vernooijs;Yes
+Lucian Nica;Lucian;Nica;Lucian.Nica@kramp.com;Manager Architecture;Radek Kowalski;Yes
+Tom Weenink;Tom;Weenink;Tom.Weenink@kramp.com;Technology Analyst;Radek Kowalski;Yes
+George Koprinkov;George;Koprinkov;George.Koprinkov@kramp.com;Enterprise Architect?;Radek Kowalski;Yes
+Gerben te Lindert;Gerben;Lindert;gerben.te.lindert@kramp.com;System Engineer;Alfons Giesen;Yes
+Gert Wisselink;Gert;Wisselink;Gert.Wisselink@kramp.com;Analytics Engineer;Oliver Meisch;Yes
+Jan-Willem Zweers;Jan-Willem;Zweers;Jan-Willem.Zweers@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Abel Kuiper;Abel;Kuiper;Abel.Kuiper@kramp.com;IT Information Analyst;Boris Vernooijs;Yes
+Rogier Hoek;Rogier;Hoek;Rogier.Hoek@kramp.com;System Engineer;Alfons Giesen;Yes
+Jan Jouke Flokstra;Jan Jouke;Flokstra;Jan.Jouke.Flokstra@kramp.com;IT Information Analyst;Boris Vernooijs;Yes
+Cynthia Schreurs;Cynthia;Schreurs;Cynthia.Schreurs@kramp.com;Project Manager;Melissa de Ruiter;Yes
+Richard van den Toorn;Richard;Toorn;Richard.van.den.Toorn@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Bjorn Krabbenborg;Bjorn;Krabbenborg;Bjorn.Krabbenborg@kramp.com;Solution Architect;Lucian Nica;Yes
+Dennis Rijntjes;Dennis;Rijntjes;dennis.rijntjes@kramp.com;System Administrator;Alfons Giesen;Yes
+Bram Smid;Bram;Smid;Bram.Smid@kramp.com;Technology Analyst;Radek Kowalski;Yes
+Bjorn Semmelink;Bjorn;Semmelink;Bjorn.Semmelink@kramp.com;IT Information Analyst;Boris Vernooijs;Yes
+Marcel Oonk;Marcel;Oonk;Marcel.Oonk@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Thimo Dusseldorp;Thimo;Dusseldorp;Thimo.Dusseldorp@kramp.com;Software Engineer;Boris Vernooijs;Yes
+Peter Hendriks;Peter;Hendriks;Peter.Hendriks@kramp.com;Analytics Engineer;Oliver Meisch;Yes
+Jan Roelof Meeuwes;Jan Roelof;Meeuwes;Jan.Roelof.Meeuwes@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Nivard Postma;Nivard;Postma;Nivard.Postma@kramp.com;System Administrator;Alfons Giesen;Yes
+Bouke Feenstra;Bouke;Feenstra;Bouke.Feenstra@kramp.com;IT Support Engineer;Mark Everts;Yes
+Dave Gielen;Dave;Gielen;Dave.Gielen@kramp.com;IT Information Analyst;Melissa de Ruiter;Yes
+Jasper Schel;Jasper;Schel;Jasper.Schel@kramp.com;IT Support Engineer;Mark Everts;Yes
+Damiaan Eppingbroek;Damiaan;Eppingbroek;Damiaan.Eppingbroek@kramp.com;System Administrator;Alfons Giesen;Yes
+Gerrit Dijkslag;Gerrit;Dijkslag;Gerrit.Dijkslag@kramp.com;IT Support Engineer;Mark Everts;Yes
+Ruben van der Graaf;Ruben;Graaf;Ruben.van.der.Graaf@kramp.com;IT Support Manager;Ebel Noorman;Yes
+Maarten Ras;Maarten;Ras;Maarten.Ras@kramp.com;Database Administrator;Alfons Giesen;Yes
+Pierre Tinard;Pierre;Tinard;Pierre.Tinard@kramp.com;IT Support Engineer;Pathou Ackhavong;Yes
+Alex Crampton;Alex;Crampton;Alex.Crampton@kramp.com;IT Support Engineer;Ruben van der Graaf;Yes
+Robbert de Jong;Robbert;Jong;Robbert.de.Jong@kramp.com;IT Support Engineer;Mark Everts;Yes
+Vallerick Winters;Vallerick;Winters;Vallerick.Winters@kramp.com;IT Information Analyst;Boris Vernooijs;Yes
+Jeroen Wilde;Jeroen;Wilde;Jeroen.Wilde@kramp.com;Technology Analyst;Radek Kowalski;Yes
+Rob Sessink;Rob;Sessink;Rob.Sessink@kramp.com;Enterprise Architect?;Lucian Nica;Yes
+Carla Nijhof;Carla;Nijhof;Carla.Nijhof@kramp.com;IT Information Analyst;Boris Vernooijs;Yes
+Ramon Geessink;Ramon;Geessink;Ramon.Geessink@kramp.com;IT Information Analyst;Boris Vernooijs;Yes
+Jerry Masselink;Jerry;Masselink;Jerry.Masselink@kramp.com;IT Information Analyst;Boris Vernooijs;Yes
+Michiel Buevink;Michiel;Buevink;Michiel.Buevink@kramp.com;Software Engineer;Boris Vernooijs;Yes
+Mark Everts;Mark;Everts;mark.everts@kramp.com;IT Support Team Manager;Ruben van der Graaf;Yes
+Jannik Hofmann;Jannik;Hofmann;jannik.hofmann@kramp.com;IT Support Engineer;Michael Bergmann;Yes
+Miros?aw Gruszczy?ski;Miros?aw;Gruszczy?ski;Miroslaw.Gruszczynski@kramp.com;Project Manager;Olivier Luxon;Yes
+Jaros?aw Stamblewski;Jaros?aw;Stamblewski;Jaroslaw.Stamblewski@kramp.com;Database Administrator;Pawe? Kowtun;Yes
+Mariusz Urbanowski;Mariusz;Urbanowski;Mariusz.Urbanowski@kramp.com;IT Information Analyst;Pawe? Kowtun;Yes
+Marcin Dolecki;Marcin;Dolecki;Marcin.Dolecki@kramp.com;IT Information Analyst;Pawe? Kowtun;Yes
+Bjarne Bach Jensen;Bjarne Bach;Jensen;Bjarne.Bach.Jensen@kramp.com;Head of Security;Olivier Luxon;Yes
+Niklas Pallesen;Niklas;Pallesen;niklas.guldahl.pallesen@kramp.com;IT Support Engineer;Martin Andersen;Yes
+Marianne Nielsen;Marianne;Nielsen;Marianne.Nielsen@kramp.com;Vendor Data Specialist;Gitte Meinz;Yes
+Gitte Meinz;Gitte;Meinz;Gitte.Meinz@kramp.com;IT Support Engineer;Martin Andersen;Yes
+Rita Kamp Kristensen;Rita;Kamp Kristensen;rita.kamp.kristensen@kramp.com;ERP Data Specialist;Gitte Meinz;Yes
+Danny Nielsen;Danny;Nielsen;Danny.Nielsen@kramp.com;IT Information Analyst;Martin Andersen;Yes
+Jeremie Meinen;Jeremie;Meinen;jeremie.meinen@kramp.com;IT Support Engineer;Mark Everts;Yes
+Roy Zijlmans;Roy;Zijlmans;roy.zijlmans@kramp.com;System Engineer;Alfons Giesen;Yes
+Rozemarijn Wammes;Rozemarijn;Wammes;rozemarijn.wammes@kramp.com;IT Support Engineer;Mark Everts;Yes
+Danny Vester;Danny;Vester;danny.vester@kramp.com;IT Information Analyst;Marco Brokking;Yes
+Jimmy van Hinthem;Jimmy;Hinthem;jimmy.van.hinthem@kramp.com;System Administrator;Alfons Giesen;Yes
+Jan Willem Huurnink;Jan Willem;Huurnink;janwillem.huurnink@kramp.com;IT Support Engineer;Mark Everts;Yes
+Dries van Marwijk;Dries;Marwijk;dries.van.marwijk@kramp.com;IT Support Engineer;Mark Everts;Yes
+Boris Vernooijs;Boris;Vernooijs;Boris.Vernooijs@kramp.com;Skill Group Manager;Ebel Noorman;Yes
+Erik Masen;Erik;Masen;erik.masen@kramp.com;IT Information Analyst;Marco Brokking;Yes
+André Mateman;André;Mateman;andre.mateman@kramp.com;Analytics Engineer;Oliver Meisch;Yes
+Piotr J?drzejczak;Piotr;J?drzejczak;piotr.jedrzejczak@kramp.com;Cyber Security Operator;Bjarne Bach Jensen;Yes
+Piotr J?drzejczak;Piotr;J?drzejczak;piotr.jedrzejczak@kramp.com;Cyber Security Operator;Bjarne Bach Jensen;Yes
+Jan Cornelissen;Jan;Cornelissen;jan.cornelissen@kramp.com;IT Information Analyst;Boris Vernooijs;Yes
+Janusz Miedzi?ski;Janusz;Miedzi?ski;janusz.miedzinski@kramp.com;Cyber Security Specialist;Bjarne Bach Jensen;Yes
+Ashley van Dee;Ashley;Dee;ashley.van.dee@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Mirko Schuurman;Mirko;Schuurman;mirko.schuurman@kramp.com;Director Technology Transformation;Olivier Luxon;Yes
+Roel Görz;Roel;Görz;roel.gorz@kramp.com;IT Information Analyst;Boris Vernooijs;Yes
+Tim Ister;Tim;Ister;tim.ister@kramp.com;IT Support Engineer;Michael Bergmann;Yes
+Vadim Kalitsev;Vadim;Kalitsev;vadim.kalitsev@kramp.com;Cloud Architect;Lucian Nica;Yes
+Jorrit Haverkamp;Jorrit;Haverkamp;jorrit.haverkamp@kramp.com;IT Support Engineer;Mark Everts;Yes
+Pawe? Kowtun;Pawe?;Kowtun;pawel.kowtun@kramp.com;IT Manager;Ebel Noorman;Yes
+Thijs Brugman;Thijs;Brugman;thijs.brugman@kramp.com;Manager Data Science;Mark Friedl;Yes
+Piotr Tomczak;Piotr;Tomczak;piotr.tomczak@kramp.com;IT Information Analyst;Pawe? Kowtun;Yes
+Piotr Tomczak;Piotr;Tomczak;piotr.tomczak@kramp.com;IT Information Analyst;Pawe? Kowtun;Yes
+Michael Bergmann;Michael;Bergmann;michael.bergmann@kramp.com;IT Support Supervisor;Ruben van der Graaf;Yes
+Egbert Jan Langerak;Egbert Jan;Langerak;egbert.jan.langerak@kramp.com;QA Automation Engineer;Sonja den Biggelaar;Yes
+Jasper Hebbink;Jasper;Hebbink;jasper.hebbink@kramp.com;IT Information Analyst;Sonja den Biggelaar;Yes
+Max Disteli;Max;Disteli;max.disteli@kramp.com;Network Engineer;Alfons Giesen;Yes
+Rene William;Rene;William;rene.william@kramp.com;Enterprise Data Architect;Lucian Nica;Yes
+Jeroen Rouwenhorst;Jeroen;Rouwenhorst;jeroen.rouwenhorst@kramp.com;Technology Governance Officer;Olivier Luxon;Yes
+Niek Groot Nibbelink;Niek;Groot Nibbelink;niek.groot.nibbelink@kramp.com;Software Engineer - Integrations;Melissa de Ruiter;Yes
+Sergey Korolev;Sergey;Korolev;sergey.korolev@kramp.com;Analytics Engineer;Oliver Meisch;Yes
+Jeroen van de Laar;Jeroen;Laar;jeroen.van.de.laar@kramp.com;IT Information Analyst;Marco Brokking;Yes
+Paolo Vecchi;Paolo;Vecchi;paolo.vecchi@kramp.com;IT Support Engineer;Ruben van der Graaf;Yes
+Nikol Pietersen;Nikol;Pietersen;nikol.pietersen@kramp.com;IT Information Analyst;Boris Vernooijs;Yes
+Ferhat Karatay;Ferhat;Karatay;ferhat.karatay@kramp.com;Software Engineer;Melissa de Ruiter;Yes
+Rik Pelgrim;Rik;Pelgrim;rik.pelgrim@kramp.com;Technology Analyst;Radek Kowalski;Yes
+Javier Misol;Javier;Misol;javier.misol@kramp.com;IT Support Engineer;Ruben van der Graaf;Yes
+Piotr Haik;Piotr;Haik;piotr.haik@kramp.com;IT Information Analyst;Pawe? Kowtun;Yes
+Arkadiusz Karmowski;Arkadiusz;Karmowski;arkadiusz.karmowski@kramp.com;System Engineer;Pawe? Kowtun;Yes
+Karla Cabrera;Karla;Cabrera;karla.cabrera@kramp.com;Software Engineer - Integrations;Melissa de Ruiter;Yes
+Jonathan voor de Poorte;Jonathan;Poorte;jonathan.voor.de.poorte@kramp.com;Product Owner;Chiel Schutter;Yes
+Ralph ter Haar;Ralph;Haar;ralph.ter.haar@kramp.com;IT Servicedesk Coordinator;Mark Everts;Yes
+Jan-Wilfried van der Plaats;Jan-Wilfried;Plaats;jan-wilfried.van.der.plaats@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Bas Eggink;Bas;Eggink;bas.eggink@kramp.com;Product Owner;Ebel Noorman;Yes
+Thijmen Termaat;Thijmen;Termaat;thijmen.termaat@kramp.com;IT Support Engineer;Julius Jansink;Yes
+Tra Nguyen;Tra;Nguyen;tra.nguyen@kramp.com;Data Engineer;Oliver Meisch;Yes
+Trang Trinh;Trang;Trinh;trang.trinh@kramp.com;Data Engineer;Oliver Meisch;Yes
+Pathou Ackhavong;Pathou;Ackhavong;pathou.ackhavong@kramp.com;IT Support Team Manager;Ruben van der Graaf;Yes
+Rados?aw Spycha?a;Rados?aw;Spycha?a;radoslaw.spychala@kramp.com;Database Administrator;Pawe? Kowtun;Yes
+Jasper ten Dolle;Jasper;Dolle;jasper.ten.dolle@kramp.com;IT Information Analyst;Boris Vernooijs;Yes
+Mi?osz Andrzejewski;Mi?osz;Andrzejewski;milosz.andrzejewski@kramp.com;Cyber Security Operator;Bjarne Bach Jensen;Yes
+Maarten Jansen;Maarten;Jansen;maarten.jansen@kramp.com;IT Support Engineer;Mark Everts;Yes
+Julius Jansink;Julius;Jansink;julius.jansink@kramp.com;IT Support Team Manager;Ruben van der Graaf;Yes
+Grzegorz Kostrzewa;Grzegorz;Kostrzewa;grzegorz.kostrzewa@kramp.com;IT Support Engineer;Pawe? Kowtun;Yes
+Thijs Kienstra;Thijs;Kienstra;thijs.kienstra@kramp.com;IT Information Analyst;Boris Vernooijs;Yes
+Anna Adeney;Anna;Adeney;anna.adeney@kramp.com;Integration Engineer;Boris Vernooijs;Yes
+Chiel Schutter;Chiel;Schutter;chiel.schutter@kramp.com;Director Digital Technology;Olivier Luxon;Yes
+Jan Wojtaszewski;Jan;Wojtaszewski;jan.wojtaszewski@kramp.com;IT Information Analyst;Pawe? Kowtun;Yes
+Arthur Beaujard;Arthur;Beaujard;arthur.beaujard@kramp.com;Intern;Bjarne Bach Jensen;Yes
+Melissa de Ruiter;Melissa;de Ruiter;melissa.de.ruiter@kramp.com;Skill Group Manager;Ebel Noorman;Yes
+Isabel Meijer;Isabel;Meijer;isabel.meijer@kramp.com;Data Scientist;Thijs Brugman;Yes
+Ina Gurra;Ina;Gurra;ina.gurra@kramp.com;Software Engineer - Integrations;Melissa de Ruiter;Yes
+Linda van den Tillaart;Linda;van den Tillaart;linda.van.den.tillaart@kramp.com;Technology Analyst;Radek Kowalski;Yes
+Osama Larhlimi;Osama;Larhlimi;osama.larhlimi@kramp.com;IT Support Engineer;Pathou Ackhavong;Yes
+Niklas Brunebjerg Hansen;Niklas Brunebjerg;Hansen;niklas.brunebjerg.hansen@kramp.com;IT Support Engineer;Martin Andersen;Yes
+Roman Bobok;Roman;Bobok;roman.bobok@kramp.com;IT Support Engineer;Martin Andersen;Yes
+Dmitrii Marukhno;Dmitrii;Marukhno;dmitrii.marukhno@kramp.com;Software Engineer;Melissa de Ruiter;Yes
+Adam Bala;Adam;Bala;adam.bala@kramp.com;IT Support Engineer;Pawe? Kowtun;Yes
+Alexandre Mori;Alexandre;Mori;alexandre.mori@kramp.com;Software Engineer;Melissa de Ruiter;Yes
+Collins Kemboi;Collins;Kemboi;collins.kemboi@kramp.com;Software Engineer - Integrations;Melissa de Ruiter;Yes
+Thijmen Doppen;Thijmen;Doppen;thijmen.doppen@kramp.com;Technology Analyst;Radek Kowalski;Yes
+Jorge Contreras;Jorge;Contreras;jorge.contreras@kramp.com;Manager Data Governance;Mark Friedl;Yes
+Matlhogonolo Mooki;Matlhogonolo;Mooki;matlhogonolo.mooki@kramp.com;Software Engineer;Melissa de Ruiter;Yes
+Camila Correa;Camila;Correa;camila.correa@kramp.com;Software Engineer - Integrations;Melissa de Ruiter;Yes
+Dmitry Serbin (???????);Dmitry;Serbin;dmitry.serbin@kramp.com;Software Engineer - Integrations;Melissa de Ruiter;Yes
+Bob van der Velde;Bob;Velde;bob.van.der.velde@kramp.com;IT Support Engineer;Mark Everts;Yes
+Esther van der Velden;Esther;Velden;esther.van.der.velden@kramp.com;Skill Group Manager;Olivier Luxon;Yes
+Martin Andersen;Martin;Andersen;m.andersen@kramp.com;IT Manager;Ebel Noorman;Yes
+Marjan Tomovski;Marjan;Tomovski;marjan.tomovski@kramp.com;IT Information Analyst;Boris Vernooijs;Yes
+Daniel Sobotka;Daniel;Sobotka;daniel.sobotka@kramp.com;IT Information Analyst;Marco Brokking;Yes
+Judith van Dongen;Judith;van Dongen;judith.van.dongen@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Mark Friedl;Mark;Friedl;mark.friedl@kramp.com;Director of Data;Olivier Luxon;Yes
+Joost Sessink;Joost;Sessink;joost.sessink@kramp.com;Software Engineer;Boris Vernooijs;Yes
+Sophia Mixa;Sophia;Mixa;sophia.mixa@kramp.com;Intern;Michael Bergmann;Yes
+Nikita Burtsev;Nikita;Burtsev;nikita.burtsev@kramp.com;Software Engineer - Integrations;Melissa de Ruiter;Yes
+Felipe Salgado Ramos;Felipe;Salgado Ramos;felipe.salgado.ramos@kramp.com;IT Information Analyst;Marco Brokking;Yes
+Kacper Kopczy?ski;Kacper;Kopczy?ski;kacper.kopczynski@kramp.com;IT Support Engineer;Pawe? Kowtun;Yes
+Poulomi Das Roy;Poulomi;Das Roy;poulomi.das.roy@kramp.com;Software Engineer - Integrations;Melissa de Ruiter;Yes
+Remco Braun;Remco;Braun;remco.braun@kramp.com;IT Support Engineer;Mark Everts;Yes
+Angel Sotomayor;Angel;Sotomayor;angel.sotomayor@kramp.com;Software Engineer;Melissa de Ruiter;Yes
+Isidora Valenzuela Dangelo;Isidora;Valenzuela Dangelo;isidora.angela.valenzuela.dangelo@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Marian Villalobos;Marian;Villalobos;marian.villalobos@kramp.com;IT Information Analyst;Boris Vernooijs;Yes
+Sibusiso Manqele;Sibusiso;Manqele;sibusiso.manqele@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Veronica Makole;Veronica;Makole;veronica.makole@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Dave Lieftink;Dave;Lieftink;dave.lieftink@kramp.com;IT Support Engineer;Mark Everts;Yes
+Kamogelo Phala;Kamogelo;Phala;kamogelo.phala@kramp.com;IT Information Analyst;Boris Vernooijs;Yes
+Esi Bilgin;Esi;Bilgin;esi.bilgin@kramp.com;IT Information Analyst;Boris Vernooijs;Yes
+Buse Pakcay;Buse;Pakcay;buse.pakcay@kramp.com;IT Information Analyst;Boris Vernooijs;Yes
+Buse Pakcay;Buse;Pakcay;buse.pakcay@kramp.com;IT Information Analyst;Boris Vernooijs;Yes
+David Lourenço;David;Lourenço;david.lourenco@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Oluwole Osinubi;Oluwole;Osinubi;oluwole.osinubi@kramp.com;IT Information Analyst;Marco Brokking;Yes
+Per Christensen;Per;Christensen;per.christensen@kramp.com;IT Support Engineer;Martin Andersen;Yes
+Sven Scholten;Sven;Scholten;sven.scholten@kramp.com;First Line Support Engineer;Mark Everts;Yes
+Paula Leiva Bedoya;Paula;Leiva;paula.leiva@kramp.com;Project Coordinator;Mirko Schuurman;Yes
+Vincent Meijers;Vincent;Meijers;vincent.meijers@kramp.com;Product Owner;Mark Friedl;Yes
+Margarida Pombo;Margarida;Pombo;margarida.pombo@kramp.com;Product Owner;Ebel Noorman;Yes
+Aleksei Bogdanov;Aleksei;Bogdanov;aleksei.bogdanov@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Bianca-Elena Prodescu;Bianca-Elena;Prodescu;Bianca.Prodescu@kramp.com;Agile Coach;Chiel Schutter;Yes
+Eduardo Meneses;Eduardo;Meneses;eduardo.meneses@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Garry Edward Newball Archbold;Garry Edward;Newball Archbold;garry.newball@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Hamzeh Tabba’a;Hamzeh;Tabba’a;hamzeh.tabbaa@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Hemraj Kerkar;Hemraj;Kerkar;hemraj.kerkar@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Jona Derksen;Jona;Derksen;Jona.Derksen@kramp.com;Agile Coach;Bianca-Elena Prodescu;Yes
+Jordy Veldhuizen;Jordy;Veldhuizen;jordy.veldhuizen@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Alireza Safaeirad;Alireza;Safaeirad;alireza.safaeirad@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Bas Benning;Bas;Benning;bas.benning@kramp.com;QA Platform Engineer;Maarten Roosendaal;Yes
+Cristiano Santos Botelho;Cristiano;Santos Botelho;cristiano.santos.botelho@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Gorian Driza;Gorian;Driza;gorian.driza@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Mustafa Haluk Tiras;Mustafa Haluk;Tiras;haluk.tiras@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Jordan Grace;Jordan;Grace;Jordan.Grace@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Kristel Nieuwenhuijs;Kristel;Nieuwenhuijs;Kristel.Nieuwenhuijs@kramp.com;Solution Architect;Lucian Nica;Yes
+Marijan Muftic;Marijan;Muftic;marijan.muftic@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Mert Esen;Mert;Esen;mert.esen@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Nastassia Kredzikava;Nastassia;Kredzikava;nastassia.kredzikava@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Nathnael Endeshaw;Nathnael;Endeshaw;nathnael.endeshaw@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Sahar Sadat Hosseini;Sahar Sadat;Hosseini;saharsadat.hosseini@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Serhat Yildiz;Serhat;Yildiz;serhat.yildiz@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Mohamed Suhail Rifky;Mohamed Suhail;Rifky;mohamedsuhail.rifky@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Sunil Bansal;Sunil;Bansal;sunil.bansal@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Maarten Roosendaal;Maarten;Roosendaal;Maarten.Roosendaal@kramp.com;Technology Manager;Chiel Schutter;Yes
+Mairelin Roque Riely;Mairelin;Roque Riely;mairelin.roque.riely@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Miguel Agustin Abate Campo;Miguel Agustin;Abate Campo;Miguel.Abate@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Milad Khodabandehloo;Milad;Khodabandehloo;milad.khodabandehloo@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Muhammed Mashiur Rahman;Muhammed;Mashiur Rahman;muhammed.rahman@kramp.com;Software Engineer;Boris Vernooijs;Yes
+Niloufar Pourkia;Niloufar;Pourkia;niloufar.pourkia@kramp.com;Software Engineer;Boris Vernooijs;Yes
+Rodrigo Irigoin;Rodrigo;Irigoin;Rodrigo.Irigoin@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Soheil Yahyaee;Soheil;Yahyaee;soheil.yahyaee@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Vu Le Tan;Vu;Le Tan;vu.le.tan@kramp.com;Platform Engineer;Oliver Meisch;Yes
+Tu?çe Aybak Dumlu;Tu?çe;Aybak Dumlu;tuce.aybak.dumlu@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Vladimir Oganesov;Vladimir;Oganesov;vladimir.oganesov@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Zoran Damjanac;Zoran;Damjanac;zoran.damjanac@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+May Meligy;May;Meligy;may.meligy@maykers.com;QA Automation Engineer;Sonja den Biggelaar;Yes
+Nouran Elrashidy;Nouran;Elrashidy;Nouran.Elrashidy@kramp.com;IT Support Engineer;Mark Everts;Yes
+Prudhvi Kethineni;Prudhvi;Kethineni;prudhvi.kethineni@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Rúben Cachucho;Rúben;Cachucho;ruben.cachucho@kramp.com;Outsystems Developer;Sonja den Biggelaar;Yes
+Sjoerd Wapperom;Sjoerd;Wapperom;Sjoerd.Wapperom@kramp.com;Enterprise Architect;Radek Kowalski;Yes
+Sowmya Sista;Sowmya;Sista;sowmya.sista@kramp.com;QA Platform Engineer;Sonja den Biggelaar;Yes
+Leon Weerts;Leon;Weerts;leon.weerts@kramp.com;Change Manager;Mirko Schuurman;Yes
+Neelam Bhawsar;Neelam;Bhawsar;Neelam.Bhawsar@kramp.com;Data Scientist;Thijs Brugman;Yes
+Jelmer Krauwer;Jelmer;Krauwer;jelmer.krauwer@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Fernanda Borges da Silva;Fernanda;Borges da Silva;fernanda.borges.da.silva@kramp.com;Data Scientist;Thijs Brugman;Yes
+Arvind Mohabir;Arvind;Mohabir;Arvind.Mohabir@kramp.com;Solution Architect;Lucian Nica;Yes
+Ricardo Alves;Ricardo;Alves;ricardo.alves@kramp.com;Agile Coach;Bianca-Elena Prodescu;Yes
+Stijn Kemperman;Stijn;Kemperman;stijn.kemperman@kramp.com;IT Support Engineer;Julius Jansink;Yes
+Ellen Aalbers;Ellen;Aalbers;ellen.aalbers@kramp.com;Agile Coach;Bianca-Elena Prodescu;Yes
+Ehsan Hedayatpour (????? ????? ???);Ehsan;Hedayatpour;ehsan.hedayatpour@kramp.com;Software Engineer;Melissa de Ruiter;Yes
+Emmanuel Ogah;Emmanuel;Ogah;emmanuel.ogah@kramp.com;DevOps Engineer;Melissa de Ruiter;Yes
+Ricardo Lindooren;Ricardo;Lindooren;ricardo.lindooren@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Mathias Holm;Mathias;Holm;mathias.lund.ager.holm@kramp.com;IT Support Engineer;Martin Andersen;Yes
+Armando Ibarra;Armando;Ibarra;armando.ibarra@kramp.com;Integration Engineer;Melissa de Ruiter;Yes
+Monika Vaishnav;Monika;Vaishnav;monika.vaishnav@kramp.com;Solution Architect;Lucian Nica;Yes
+Paul Kempers;Paul;Kempers;paul.kempers@kramp.com;IT Support Engineer;Mark Everts;Yes
+Abdessamie Sohail;Abdessamie;Sohail;sohail.abdessamie@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Kyle Scobie;Kyle;Scobie;kyle.scobie@kramp.com;Intern;Mark Everts;Yes
+Mohamed Ali Rachid;Mohamed Ali;Rachid;mohamed.ali.rachid@kramp.com;Software Engineer;Boris Vernooijs;Yes
+Jerrystama Abipradja;Jerrystama;Abipradja;jerrystama.abipradja@kramp.com;IT Information Analyst;Marco Brokking;Yes
+Racheal Mutegi;Racheal;Mutegi;rachel.mutegi@kramp.com;Software Engineer;Melissa de Ruiter;Yes
+Edson Mutombene;Edson;Mutombene;edson.mutombene@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Sonja den Biggelaar;Sonja;den Biggelaar;sonja.den.biggelaar@kramp.com;Skill Group Manager;Chiel Schutter;Yes
+Jordan Mauricio;Jordan;Mauricio;jordan.mauricio@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Chaitra Sudhir;Chaitra;Sudhir;chaitra.sudhir@kramp.com;QA Platform Engineer;Sonja den Biggelaar;Yes
+Oluwaseun Omoyajowo;Oluwaseun;Omoyajowo;oluwaseun.omoyajowo@kramp.com;Frontend Engineer;Maarten Roosendaal;Yes
+Mykyta Siryk;Mykyta;Siryk;mykyta.siryk@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Monique Hendricks;Monique;Hendricks;monique.hendricks@kramp.com;IT Information Analyst;Marco Brokking;Yes
+Joey Bakker;Joey;Bakker;joey.bakker@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Danylo Santoro;Danylo;Santoro;danylo.santoro@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Adrien Grimaud;Adrien;Grimaud;adrien.grimaud@kramp.com;Intern;Pathou Ackhavong;Yes
+Connel Chiang;Connel;Chiang;connel.chiang@kramp.com;Technology Change Manager;Chiel Schutter;Yes
+Dennis Rutjes;Dennis;Rutjes;dennis.rutjes@kramp.com;Data Engineer;Oliver Meisch;Yes
+Lucas De Winter;Lucas;Winter;lucas.de.winter@kramp.com;IT Support Engineer;Mark Everts;Yes
+Bryan Sauvage;Bryan;Sauvage;bryan.sauvage@kramp.com;Intern;Pathou Ackhavong;Yes
+Joseph Badum;Joseph;Badum;joseph.badum@kramp.com;IT Support Engineer;Michael Bergmann;Yes
+Rik Ribbers;Rik;Ribbers;rik.ribbers@kramp.com;Product Owner;Chiel Schutter;Yes
+Louis Dalex;Louis;Dalex;louis.dalex@kramp.com;IT Support Engineer;Pathou Ackhavong;Yes
+Arné Engelbrecht;Arné;Engelbrecht;arne.engelbrecht@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Tatiana Pastukhova;Tatiana;Pastukhova;tatiana.pastukhova@kramp.com;Agile Coach;Bianca-Elena Prodescu;Yes
+Voyta Krizek;Voyta;Krizek;voyta.krizek@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Liliia Malysh;Liliia;Malysh;lillia.malysh@kramp.com;Skill Group Manager;Chiel Schutter;Yes
+Stanislav Grychkosii;Stanislav;Grychkosii;stanislav.grychkosii@kramp.com;FinOps Practice Lead;Radek Kowalski;Yes
+Aleksandar Polizovski;Aleksandar;Polizovski;aleksandar.polizovski@kramp.com;Software Engineer;Melissa de Ruiter;Yes
+Søren Andersen;Søren;Andersen;soren.andersen@kramp.com;IT Information Analyst;Martin Andersen;Yes
+Cristy Pearl Veedor;Cristy Pearl;Veedor;cristy.pearl.veedor@kramp.com;QA Automation Engineer;Sonja den Biggelaar;Yes
+Jesper Goll;Jesper;Goll;jesper.goll@kramp.com;IT Information Analyst;Martin Andersen;Yes
+Michal Orlowski;Michal;Orlowski;michal.orlowski@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Corbin Becker;Corbin;Becker;corbin.becker@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Corbin Becker;Corbin;Becker;corbin.becker@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Dawid Wieczorek;Dawid;Wieczorek;dawid.wieczorek@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Tomasz Lukawski;Tomasz;Lukawski;tomasz.lukawski@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Alejandro Barazarte;Alejandro;Barazarte;alejandro.barazarte@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+De Pallier Gerber;De Pallier;Gerber;de.pallier.heinrich.gerber@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Juliano Ladeira;Juliano;Ladeira;juliano.ladeira@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Quintin Henning;Quintin;Henning;Quintin.Henning@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Hamed Jafari Esfahani;Hamed;Jafari Esfahani;hamed.jafari.esfahani@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+José Proença;José;Proença;jose.proenca@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Luis Monteiro;Luis;Monteiro;luis.monteiro@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Miguel Palrão;Miguel;Palrão;miguel.palrao@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Erik Bach-Andersen;Erik;Bach-Andersen;erik.bach-andersen@kramp.com;IT Information Analyst;Martin Andersen;Yes
+Madou Havenith;Madou;Havenith;madou.havenith@kramp.com;Technology Analyst;Radek Kowalski;Yes
+Chandra Nurohman;Chandra;Nurohman;chandra.nurohman@kramp.com;Software Engineer;Melissa de Ruiter;Yes
+Hugo Marte;Hugo;Marte;hugo.marte@kramp.com;Software Engineer;Melissa de Ruiter;Yes
+Ahmet Egeli;Ahmet;Egeli;ahmet.egeli@kramp.com;Software Engineer;Melissa de Ruiter;Yes
+George Frank;George;Frank;george.frank@kramp.com;Software Engineer;Melissa de Ruiter;Yes
+Andre Eijbers;Andre;Eijbers;andre.eijbers@kramp.com;Software Engineer;Maarten Roosendaal;Yes
+Artsiom Tsaryonau;Artsiom;Tsaryonau;artsiom.tsaryonau@kramp.com;Software Engineer;Oliver Meisch;Yes
+Pawel Chojnacki;Pawel;Chojnacki;p.chojnacki@kramp.com;Software Engineer;Sonja den Biggelaar;Yes
+Cesar Lachapelle;Cesar;Lachapelle;cesar.lachapelle@kramp.com;Software Engineer;Melissa de Ruiter;Yes
+Heidy Deegens;Heidy;Deegens;heidy.deegens@kramp.com;License Manager;Mark Everts;Yes
+Aage H. Madsen;Aage H.;Madsen;aage.h.madsen@kramp.com;IT Information Analyst;Martin Andersen;Yes
+Aditya Singh;Aditya;Singh;aditya.singh@kramp.com;Solution Architect Procurement, Finance and Compliance;Lucian Nica;Yes
+Emanuela Iacob;Emanuela;Iacob;emanuela.lacob@kramp.com;Project Management Officer;Mirko Schuurman;Yes

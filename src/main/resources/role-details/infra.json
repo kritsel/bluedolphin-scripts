@@ -1,0 +1,4471 @@
+{
+  "error_code": 0,
+  "error_message": "",
+  "error_message_explain": "",
+  "data": {
+    "id": "5c814380bbd0ab18803558ba",
+    "name": "Infra",
+    "internal_name": "e28aa8a5-0c87-4f54-a7d8-902cfdd882b2",
+    "description": "",
+    "default_landing_page": "drafts/5c88d4716ce77517b46f8cb9",
+    "is_buildin": false,
+    "members": [
+      {
+        "id": "5d662524c572da2d10346e92",
+        "first_name": "Alfons",
+        "last_name": "Giesen",
+        "email": "alfons.giesen@kramp.com",
+        "avatar": "https://www.gravatar.com/avatar/5073bf9d8894236ad156b80fa3e2f984.jpg?d=https%3A%2F%2Fcdn.bluedolphin.app%2Fmedia%2Fimages%2Fbluedolphin%2Fdefault_avatar.png",
+        "roles": null,
+        "isNew": false,
+        "isDeleted": false,
+        "is_guest_user": false,
+        "read_notifications": null,
+        "visible_object_definitions": null,
+        "object_definition_permissions": null,
+        "profile": null,
+        "default_landing_page": null,
+        "last_used_shapes": null,
+        "last_used_icons": null,
+        "default_view_mode": false,
+        "last_log_in": "2025-03-03T14:44:48.874Z",
+        "user_name": "alfons.giesen@kramp.com",
+        "external_id": null,
+        "is_scim_provisioned": false
+      },
+      {
+        "id": "5eecd3856ce77513cc0b15c7",
+        "first_name": "Damiaan",
+        "last_name": "Eppingbroek",
+        "email": "damiaan.eppingbroek@kramp.com",
+        "avatar": "https://www.gravatar.com/avatar/f16be136e405e9fdc263d63ecf228b0b.jpg?d=https%3A%2F%2Fcdn.bluedolphin.app%2Fmedia%2Fimages%2Fbluedolphin%2Fdefault_avatar.png",
+        "roles": null,
+        "isNew": false,
+        "isDeleted": false,
+        "is_guest_user": false,
+        "read_notifications": null,
+        "visible_object_definitions": null,
+        "object_definition_permissions": null,
+        "profile": null,
+        "default_landing_page": null,
+        "last_used_shapes": null,
+        "last_used_icons": null,
+        "default_view_mode": false,
+        "last_log_in": "0001-01-01T00:00:00Z",
+        "user_name": "damiaan.eppingbroek@kramp.com",
+        "external_id": null,
+        "is_scim_provisioned": false
+      },
+      {
+        "id": "5eecd2d8145c10101461bd27",
+        "first_name": "Dennis",
+        "last_name": "Rijntjes",
+        "email": "dennis.rijntjes@kramp.com",
+        "avatar": "https://www.gravatar.com/avatar/09287128595ade5223ef491905d35987.jpg?d=https%3A%2F%2Fcdn.bluedolphin.app%2Fmedia%2Fimages%2Fbluedolphin%2Fdefault_avatar.png",
+        "roles": null,
+        "isNew": false,
+        "isDeleted": false,
+        "is_guest_user": false,
+        "read_notifications": null,
+        "visible_object_definitions": null,
+        "object_definition_permissions": null,
+        "profile": null,
+        "default_landing_page": null,
+        "last_used_shapes": null,
+        "last_used_icons": null,
+        "default_view_mode": false,
+        "last_log_in": "0001-01-01T00:00:00Z",
+        "user_name": "dennis.rijntjes@kramp.com",
+        "external_id": null,
+        "is_scim_provisioned": false
+      },
+      {
+        "id": "5eecd3e96ce77513cc0b162b",
+        "first_name": "Eric",
+        "last_name": "Smees",
+        "email": "eric.smees@kramp.com",
+        "avatar": "https://www.gravatar.com/avatar/9b74098f6720f259b8156f2a2f90c928.jpg?d=https%3A%2F%2Fcdn.bluedolphin.app%2Fmedia%2Fimages%2Fbluedolphin%2Fdefault_avatar.png",
+        "roles": null,
+        "isNew": false,
+        "isDeleted": false,
+        "is_guest_user": false,
+        "read_notifications": null,
+        "visible_object_definitions": null,
+        "object_definition_permissions": null,
+        "profile": null,
+        "default_landing_page": null,
+        "last_used_shapes": null,
+        "last_used_icons": null,
+        "default_view_mode": false,
+        "last_log_in": "0001-01-01T00:00:00Z",
+        "user_name": "eric.smees@kramp.com",
+        "external_id": null,
+        "is_scim_provisioned": false
+      },
+      {
+        "id": "5eecd282145c10101461bcf4",
+        "first_name": "Frank-Jan",
+        "last_name": "Franken",
+        "email": "frank-jan.franken@kramp.com",
+        "avatar": "https://www.gravatar.com/avatar/898a541c00a3dab4bbcf07bc92664771.jpg?d=https%3A%2F%2Fcdn.bluedolphin.app%2Fmedia%2Fimages%2Fbluedolphin%2Fdefault_avatar.png",
+        "roles": null,
+        "isNew": false,
+        "isDeleted": false,
+        "is_guest_user": false,
+        "read_notifications": null,
+        "visible_object_definitions": null,
+        "object_definition_permissions": null,
+        "profile": null,
+        "default_landing_page": null,
+        "last_used_shapes": null,
+        "last_used_icons": null,
+        "default_view_mode": false,
+        "last_log_in": "0001-01-01T00:00:00Z",
+        "user_name": "frank-jan.franken@kramp.com",
+        "external_id": null,
+        "is_scim_provisioned": false
+      },
+      {
+        "id": "5eecd306c572da1418f8bf42",
+        "first_name": "Gerben",
+        "last_name": "te Lindert",
+        "email": "gerben.te.lindert@kramp.com",
+        "avatar": "https://www.gravatar.com/avatar/4b9090ec929cee9266b69acf450f1d5e.jpg?d=https%3A%2F%2Fcdn.bluedolphin.app%2Fmedia%2Fimages%2Fbluedolphin%2Fdefault_avatar.png",
+        "roles": null,
+        "isNew": false,
+        "isDeleted": false,
+        "is_guest_user": false,
+        "read_notifications": null,
+        "visible_object_definitions": null,
+        "object_definition_permissions": null,
+        "profile": null,
+        "default_landing_page": null,
+        "last_used_shapes": null,
+        "last_used_icons": null,
+        "default_view_mode": false,
+        "last_log_in": "2025-02-25T13:53:47.435Z",
+        "user_name": "gerben.te.lindert@kramp.com",
+        "external_id": null,
+        "is_scim_provisioned": false
+      },
+      {
+        "id": "5eecd413bbd0ab1834bfb533",
+        "first_name": "Johan",
+        "last_name": "van Eerden",
+        "email": "johan.van.eerden@kramp.com",
+        "avatar": "https://www.gravatar.com/avatar/aa1603cfcfa8d22162b7cfdedb22e699.jpg?d=https%3A%2F%2Fcdn.bluedolphin.app%2Fmedia%2Fimages%2Fbluedolphin%2Fdefault_avatar.png",
+        "roles": null,
+        "isNew": false,
+        "isDeleted": false,
+        "is_guest_user": false,
+        "read_notifications": null,
+        "visible_object_definitions": null,
+        "object_definition_permissions": null,
+        "profile": null,
+        "default_landing_page": null,
+        "last_used_shapes": null,
+        "last_used_icons": null,
+        "default_view_mode": false,
+        "last_log_in": "0001-01-01T00:00:00Z",
+        "user_name": "johan.van.eerden@kramp.com",
+        "external_id": null,
+        "is_scim_provisioned": false
+      },
+      {
+        "id": "5eecd266c572da1418f8bf10",
+        "first_name": "Maarten",
+        "last_name": "Ras",
+        "email": "maarten.ras@kramp.com",
+        "avatar": "https://www.gravatar.com/avatar/189ca19f6b2c0680b4b92d78097c838c.jpg?d=https%3A%2F%2Fcdn.bluedolphin.app%2Fmedia%2Fimages%2Fbluedolphin%2Fdefault_avatar.png",
+        "roles": null,
+        "isNew": false,
+        "isDeleted": false,
+        "is_guest_user": false,
+        "read_notifications": null,
+        "visible_object_definitions": null,
+        "object_definition_permissions": null,
+        "profile": null,
+        "default_landing_page": null,
+        "last_used_shapes": null,
+        "last_used_icons": null,
+        "default_view_mode": false,
+        "last_log_in": "0001-01-01T00:00:00Z",
+        "user_name": "maarten.ras@kramp.com",
+        "external_id": null,
+        "is_scim_provisioned": false
+      },
+      {
+        "id": "5f24333bc572da0cc488830f",
+        "first_name": "Martin",
+        "last_name": "Kohlrusch",
+        "email": "martin.kohlrusch@kramp.com",
+        "avatar": "https://www.gravatar.com/avatar/f02f6a14bc7032e6254f90e9e587e6e9.jpg?d=https%3A%2F%2Fcdn.bluedolphin.app%2Fmedia%2Fimages%2Fbluedolphin%2Fdefault_avatar.png",
+        "roles": null,
+        "isNew": false,
+        "isDeleted": false,
+        "is_guest_user": false,
+        "read_notifications": null,
+        "visible_object_definitions": null,
+        "object_definition_permissions": null,
+        "profile": null,
+        "default_landing_page": null,
+        "last_used_shapes": null,
+        "last_used_icons": null,
+        "default_view_mode": false,
+        "last_log_in": "0001-01-01T00:00:00Z",
+        "user_name": "martin.kohlrusch@kramp.com",
+        "external_id": null,
+        "is_scim_provisioned": false
+      },
+      {
+        "id": "5eecd327cf150919107ded2d",
+        "first_name": "Max",
+        "last_name": "Disteli",
+        "email": "max.disteli@kramp.com",
+        "avatar": "https://www.gravatar.com/avatar/06ef2d7ea06d7ae83489f36e7b8bd155.jpg?d=https%3A%2F%2Fcdn.bluedolphin.app%2Fmedia%2Fimages%2Fbluedolphin%2Fdefault_avatar.png",
+        "roles": null,
+        "isNew": false,
+        "isDeleted": false,
+        "is_guest_user": false,
+        "read_notifications": null,
+        "visible_object_definitions": null,
+        "object_definition_permissions": null,
+        "profile": null,
+        "default_landing_page": null,
+        "last_used_shapes": null,
+        "last_used_icons": null,
+        "default_view_mode": false,
+        "last_log_in": "2025-02-25T14:00:18.74Z",
+        "user_name": "max.disteli@kramp.com",
+        "external_id": null,
+        "is_scim_provisioned": false
+      },
+      {
+        "id": "5eecd231bbd0ab1834bfb4cf",
+        "first_name": "Nivard",
+        "last_name": "Postma",
+        "email": "nivard.postma@kramp.com",
+        "avatar": "https://www.gravatar.com/avatar/21b186f0414b45b6f72f2661c4678304.jpg?d=https%3A%2F%2Fcdn.bluedolphin.app%2Fmedia%2Fimages%2Fbluedolphin%2Fdefault_avatar.png",
+        "roles": null,
+        "isNew": false,
+        "isDeleted": false,
+        "is_guest_user": false,
+        "read_notifications": null,
+        "visible_object_definitions": null,
+        "object_definition_permissions": null,
+        "profile": null,
+        "default_landing_page": null,
+        "last_used_shapes": null,
+        "last_used_icons": null,
+        "default_view_mode": false,
+        "last_log_in": "0001-01-01T00:00:00Z",
+        "user_name": "nivard.postma@kramp.com",
+        "external_id": null,
+        "is_scim_provisioned": false
+      },
+      {
+        "id": "5eecd35ec572da1418f8bfa0",
+        "first_name": "Rogier",
+        "last_name": "Hoek",
+        "email": "rogier.hoek@kramp.com",
+        "avatar": "https://www.gravatar.com/avatar/1473e30c48e044c3441d593d01e4d4af.jpg?d=https%3A%2F%2Fcdn.bluedolphin.app%2Fmedia%2Fimages%2Fbluedolphin%2Fdefault_avatar.png",
+        "roles": null,
+        "isNew": false,
+        "isDeleted": false,
+        "is_guest_user": false,
+        "read_notifications": null,
+        "visible_object_definitions": null,
+        "object_definition_permissions": null,
+        "profile": null,
+        "default_landing_page": null,
+        "last_used_shapes": null,
+        "last_used_icons": null,
+        "default_view_mode": false,
+        "last_log_in": "2025-02-25T13:54:16.087Z",
+        "user_name": "rogier.hoek@kramp.com",
+        "external_id": null,
+        "is_scim_provisioned": false
+      },
+      {
+        "id": "5eecd3d16ce77513cc0b15f9",
+        "first_name": "Roy",
+        "last_name": "Zijlmans",
+        "email": "roy.zijlmans@kramp.com",
+        "avatar": "https://www.gravatar.com/avatar/e6328d77151c0cf049784593be78d792.jpg?d=https%3A%2F%2Fcdn.bluedolphin.app%2Fmedia%2Fimages%2Fbluedolphin%2Fdefault_avatar.png",
+        "roles": null,
+        "isNew": false,
+        "isDeleted": false,
+        "is_guest_user": false,
+        "read_notifications": null,
+        "visible_object_definitions": null,
+        "object_definition_permissions": null,
+        "profile": null,
+        "default_landing_page": null,
+        "last_used_shapes": null,
+        "last_used_icons": null,
+        "default_view_mode": false,
+        "last_log_in": "0001-01-01T00:00:00Z",
+        "user_name": "roy.zijlmans@kramp.com",
+        "external_id": null,
+        "is_scim_provisioned": false
+      },
+      {
+        "id": "5c66a5f4c572da1774b3df3a",
+        "first_name": "Stef",
+        "last_name": "Michielsen",
+        "email": "stef.michielsen@kramp.com",
+        "avatar": "https://www.gravatar.com/avatar/8d8b97269bab402b13739d3bdbd7d0a2.jpg?d=https%3A%2F%2Fcdn.bluedolphin.app%2Fmedia%2Fimages%2Fbluedolphin%2Fdefault_avatar.png",
+        "roles": null,
+        "isNew": false,
+        "isDeleted": false,
+        "is_guest_user": false,
+        "read_notifications": null,
+        "visible_object_definitions": null,
+        "object_definition_permissions": null,
+        "profile": null,
+        "default_landing_page": null,
+        "last_used_shapes": null,
+        "last_used_icons": null,
+        "default_view_mode": false,
+        "last_log_in": "0001-01-01T00:00:00Z",
+        "user_name": "stef.michielsen@kramp.com",
+        "external_id": null,
+        "is_scim_provisioned": false
+      },
+      {
+        "id": "5dd7ba95c572da2024626f26",
+        "first_name": "Wil",
+        "last_name": "Schipper",
+        "email": "wil.schipper@kramp.com",
+        "avatar": "https://www.gravatar.com/avatar/48f3b3254f40ca4634f1add6208b1ef9.jpg?d=https%3A%2F%2Fcdn.bluedolphin.app%2Fmedia%2Fimages%2Fbluedolphin%2Fdefault_avatar.png",
+        "roles": null,
+        "isNew": false,
+        "isDeleted": false,
+        "is_guest_user": false,
+        "read_notifications": null,
+        "visible_object_definitions": null,
+        "object_definition_permissions": null,
+        "profile": null,
+        "default_landing_page": null,
+        "last_used_shapes": null,
+        "last_used_icons": null,
+        "default_view_mode": false,
+        "last_log_in": "0001-01-01T00:00:00Z",
+        "user_name": "wil.schipper@kramp.com",
+        "external_id": null,
+        "is_scim_provisioned": false
+      }
+    ],
+    "object_definition_permissions": [
+      {
+        "id": "5c5d4cf9cf150911280e74ca",
+        "name": "Application",
+        "name_internal": "application_component",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "write",
+            "position": 3
+          },
+          {
+            "key": "5c80d747c572da1a403f92f8",
+            "label": "General - App",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "5c80e3f7c572da1a403f9375",
+            "label": "Health & Strategy",
+            "access": "read",
+            "position": 5
+          },
+          {
+            "key": "5c91fda1145c101478ee6344",
+            "label": "Deployment",
+            "access": "read",
+            "position": 6
+          },
+          {
+            "key": "5c8a6ffd145c100fb035e115",
+            "label": "Data Privacy & Access",
+            "access": "read",
+            "position": 7
+          },
+          {
+            "key": "60c9ca85ad3fbd0d6417882f",
+            "label": "Application Support",
+            "access": "write",
+            "position": 8
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": false
+      },
+      {
+        "id": "59f877d6ec9d263f70d7ee80",
+        "name": "Application Collaboration",
+        "name_internal": "application_collaboration",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d0250624527ec3ce0cfaab1",
+        "name": "Application Event",
+        "name_internal": "application_event",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5c5d4d05cf150911280e7637",
+        "name": "Application Function",
+        "name_internal": "application_function",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "5d5d169d6ce7750e6c596223",
+            "label": "General - App Func",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": false
+      },
+      {
+        "id": "5c5d4d49cf150911280e8544",
+        "name": "Application Interface",
+        "name_internal": "application_interface",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5c81240c145c100fb035854a",
+            "label": "General - Interface",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d024f1a4527ec3ce0cfa6dd",
+        "name": "Application Process",
+        "name_internal": "application_process",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "53ce28d1f04ebf0160444211",
+        "name": "Application Service",
+        "name_internal": "application_service",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5c5d4fbccf150911280ef1cb",
+        "name": "Artifact",
+        "name_internal": "artifact",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "write",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "write",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "write",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "write",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "write",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": false
+      },
+      {
+        "id": "62ab1ee5ad3fbf02b03d997b",
+        "name": "Assessment",
+        "name_internal": "assessment",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "write",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "write",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "write",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "write",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "write",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d25c7d10c0ba6f25c01b57f",
+        "name": "Assessment",
+        "name_internal": "assessment",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5c5d4d22cf150911280e7b3b",
+        "name": "Business Actor",
+        "name_internal": "business_actor",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": false
+      },
+      {
+        "id": "532ff9dbb41281c17ce263b2",
+        "name": "Business Actor",
+        "name_internal": "business_actor",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 0
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": false
+      },
+      {
+        "id": "5c5d603acf1509112813f5de",
+        "name": "Business Object",
+        "name_internal": "business_object",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "63750d5e1c0c16b97f31bb34",
+            "label": "Business Object Metadata Attributes",
+            "access": "write",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": false
+      },
+      {
+        "id": "53ce29f38ffdac058cff1ced",
+        "name": "Business Object",
+        "name_internal": "business_object",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 0
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": false
+      },
+      {
+        "id": "5c5d4d16cf150911280e78a0",
+        "name": "Business Process",
+        "name_internal": "business_process",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "5ca4a5c1cf15091abca41772",
+            "label": "General - Process",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": false
+      },
+      {
+        "id": "531721d799ffecf9b5c8b1ad",
+        "name": "Business Process",
+        "name_internal": "business_process",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 0
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": false
+      },
+      {
+        "id": "598eb245829327301cb47d1a",
+        "name": "Business Rule Task",
+        "name_internal": "business_process",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "598eb24c829327301cb47dff",
+        "name": "Call Activity",
+        "name_internal": "business_process",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "5d03457d4527ecc4e088c342",
+        "name": "Capability",
+        "name_internal": "capability",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5c5d50a2cf150911280f28c8",
+        "name": "Communication Network",
+        "name_internal": "communication_network",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "write",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "write",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "write",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "write",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "write",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": false
+      },
+      {
+        "id": "598eb256829327301cb47f3d",
+        "name": "Complex Gateway",
+        "name_internal": "bpmn_gateway",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "598eb282829327301cb483f7",
+        "name": "Conditional Intermediate Catch Event",
+        "name_internal": "business_event",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "59eddb38ec9d2656dc75a9f0",
+        "name": "Constraint",
+        "name_internal": "constraint",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d0345eb4527ecc4e088c745",
+        "name": "Course Of Action",
+        "name_internal": "course_of_action",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5c5d6023cf1509112813f2d7",
+        "name": "Data Object",
+        "name_internal": "data_object",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "61e981f5ad3fc001c8a2eaa9",
+            "label": "Data Entity Meta Attributes",
+            "access": "write",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": false
+      },
+      {
+        "id": "532fffa7b41281c17ce263b8",
+        "name": "Data Object",
+        "name_internal": "data_object",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 0
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": false
+      },
+      {
+        "id": "598eb2c4829327301cb489da",
+        "name": "Data Store",
+        "name_internal": "data_object",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "598eb2b1829327301cb4882a",
+        "name": "DataObject",
+        "name_internal": "business_object",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "5d25c6820c0ba6e79c2406b2",
+        "name": "Deliverable",
+        "name_internal": "deliverable",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5c63f1d3fff1c57b4d5914c3",
+        "name": "Dictionary",
+        "name_internal": "dictionary",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5cd3dcd46b3028a2990e624d",
+            "label": "Data Dictionary Term Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": false
+      },
+      {
+        "id": "5c5d619ccf150911281442c8",
+        "name": "Domain",
+        "name_internal": "business_function",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d25c7ae0c0ba6f25c01b0f8",
+        "name": "Driver",
+        "name_internal": "driver",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "598eb3d1829327301cb49bd5",
+        "name": "End Event",
+        "name_internal": "business_event",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "598eb335829327301cb49225",
+        "name": "Event Sub-Process",
+        "name_internal": "business_process",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "598eb32b829327301cb490ff",
+        "name": "Event-based Gateway",
+        "name_internal": "bpmn_gateway",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "598eb343829327301cb4931d",
+        "name": "Exclusive Gateway",
+        "name_internal": "bpmn_gateway",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "5d25c6300c0ba6e79c23fb9b",
+        "name": "Gap",
+        "name_internal": "gap",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "62ab1f78ad3fbd170caec95e",
+        "name": "Goal",
+        "name_internal": "goal",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "write",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "write",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "write",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "write",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "write",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": false
+      },
+      {
+        "id": "59dcb397ec9d2628f8ce1a3b",
+        "name": "Goal",
+        "name_internal": "goal",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "598eb35f829327301cb495af",
+        "name": "Inclusive Gateway",
+        "name_internal": "bpmn_gateway",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "5c764f16cf15090a348530da",
+        "name": "Integration Application",
+        "name_internal": "application_component",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5c81250c145c100fb0358552",
+            "label": "General - Integration Application",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": false
+      },
+      {
+        "id": "598eb3da829327301cb49d09",
+        "name": "Intermediate Event",
+        "name_internal": "business_event",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "6669934c522a3262520762e1",
+        "name": "Kristel Test",
+        "name_internal": "application_component",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "5c80d747c572da1a403f92f8",
+            "label": "General - App",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": false
+      },
+      {
+        "id": "5c5d7359cf15091128168f0e",
+        "name": "Location",
+        "name_internal": "location",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "write",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": false
+      },
+      {
+        "id": "598eb397829327301cb497ac",
+        "name": "Manual Task",
+        "name_internal": "business_process",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "598eb3a4829327301cb498dd",
+        "name": "Message Intermediate Catch Event",
+        "name_internal": "business_event",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "598eb3ba829327301cb49a0f",
+        "name": "Message Intermediate Throw Event",
+        "name_internal": "business_event",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "5c5d4ce9cf150911280e747b",
+        "name": "Node",
+        "name_internal": "node",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "write",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "write",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "write",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "write",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "write",
+            "position": 4
+          },
+          {
+            "key": "5dd7af68c572da3a4cb49e9e",
+            "label": "General - Node",
+            "access": "write",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d0342214527ecc4e088b556",
+        "name": "Outcome",
+        "name_internal": "outcome",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "598eb402829327301cb4a06a",
+        "name": "Parallel Gateway",
+        "name_internal": "bpmn_gateway",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "598eb40e829327301cb4a1a2",
+        "name": "Participant",
+        "name_internal": "bpmn_participant",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "5d25c64e0c0ba6245c68ff9f",
+        "name": "Plateau",
+        "name_internal": "plateau",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "59c92d468293276fc0cb4570",
+        "name": "Principle",
+        "name_internal": "principle",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "write",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "write",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "write",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "write",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "write",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "598eb42b829327301cb4a3e5",
+        "name": "Receive Task",
+        "name_internal": "business_process",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "59c92db68293276fc0cb4aff",
+        "name": "Requirement",
+        "name_internal": "requirement",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "598eb435829327301cb4a4ef",
+        "name": "Script Task",
+        "name_internal": "business_process",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "598eb441829327301cb4a65e",
+        "name": "Send Task",
+        "name_internal": "business_process",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "598eb481829327301cb4aa73",
+        "name": "Service Task",
+        "name_internal": "business_process",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "598eb48d829327301cb4abb4",
+        "name": "Signal Intermediate Catch Event",
+        "name_internal": "business_event",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "598eb4a0829327301cb4ad8c",
+        "name": "Signal Intermediate Throw Event",
+        "name_internal": "business_event",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "5d25c78b0c0ba6245c690f36",
+        "name": "Stakeholder",
+        "name_internal": "stakeholder",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "598eb3e6829327301cb49e6f",
+        "name": "Start Event",
+        "name_internal": "business_event",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "598eb4bd829327301cb4afe2",
+        "name": "Subprocess",
+        "name_internal": "business_process",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "532ffff3b41281c17ce263bb",
+        "name": "System Software",
+        "name_internal": "system_software",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "write",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "write",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "write",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "write",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "write",
+            "position": 4
+          },
+          {
+            "key": "62601c5cad3fc220c03259ae",
+            "label": "Test Jos",
+            "access": "write",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "598eb4c8829327301cb4b129",
+        "name": "Task",
+        "name_internal": "business_process",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "5c5d50b9cf150911280f2ab9",
+        "name": "Technology Service",
+        "name_internal": "technology_service",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "write",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "write",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "write",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "write",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "write",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": false
+      },
+      {
+        "id": "598eb4d7829327301cb4b23e",
+        "name": "Timer Intermediate Catch Event",
+        "name_internal": "business_event",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "598eb4e8829327301cb4b3ba",
+        "name": "Transaction",
+        "name_internal": "business_process",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "598eb4fa829327301cb4b504",
+        "name": "User Task",
+        "name_internal": "business_process",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "5981cf6a82932757d41c2738",
+            "label": "BPMN Object Description",
+            "access": "read",
+            "position": 4
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": true,
+        "is_bpmn": true
+      },
+      {
+        "id": "5d1b4e3c0c0ba6139c71b781",
+        "name": "Value",
+        "name_internal": "value",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "write",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "write",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "write",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "write",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "write",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d25c66c0c0ba6245c690413",
+        "name": "Work Package",
+        "name_internal": "workpackage",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d0347244527ecc4e088d35c",
+        "name": "Facility",
+        "name_internal": "facility",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "59f877f7ec9d263f70d7f005",
+        "name": "Application Interaction",
+        "name_internal": "application_interaction",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d0345394527ecc4e088bf43",
+        "name": "Resource",
+        "name_internal": "resource",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d25c47a0c0ba6e79c23d649",
+        "name": "Product",
+        "name_internal": "product",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d0342be4527ecc4e088bb48",
+        "name": "Implementation Event",
+        "name_internal": "implementation_event",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d25c4940c0ba6f25c01872e",
+        "name": "Business Collaboration",
+        "name_internal": "business_collaboration",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d25bec70c0ba6e79c23d41b",
+        "name": "Business Event",
+        "name_internal": "business_event",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d25c4f00c0ba6f25c018da8",
+        "name": "Contract",
+        "name_internal": "contract",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d25be5e0c0ba6f25c017a84",
+        "name": "Business Interaction",
+        "name_internal": "business_interaction",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d25c5000c0ba6e79c23defa",
+        "name": "Business Function",
+        "name_internal": "business_function",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d25be060c0ba6245c68d266",
+        "name": "Business Interface",
+        "name_internal": "business_interface",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d25c4d20c0ba6e79c23d65f",
+        "name": "Business Role",
+        "name_internal": "business_role",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "53ce29538ffdac058cff1cc2",
+        "name": "Business Service",
+        "name_internal": "business_service",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "532ffffcb41281c17ce263bc",
+        "name": "Device",
+        "name_internal": "device",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d0340bc4527ecc4e088ab7c",
+        "name": "Distribution Network",
+        "name_internal": "distribution_network",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d0340494527ecc4e088a791",
+        "name": "Equipment",
+        "name_internal": "equipment",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d25c8480c0ba6f25c01bc43",
+        "name": "Material",
+        "name_internal": "material",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5dcbd1224527ec0ac067b324",
+        "name": "Value Stream",
+        "name_internal": "value_stream",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d1b4d710c0ba63338ca08e8",
+        "name": "Meaning",
+        "name_internal": "meaning",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d024cf80c0ba649d4c0cdfe",
+        "name": "Path",
+        "name_internal": "path",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d0250fa4527ec3ce0cfae89",
+        "name": "Technology Collaboration",
+        "name_internal": "technology_collaboration",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "53ce29dff04ebf016044424b",
+        "name": "Representation",
+        "name_internal": "representation",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d033fe84527ecc4e088a3aa",
+        "name": "Technology Event",
+        "name_internal": "technology_event",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d024d8e0c0ba649d4c0cfeb",
+        "name": "Technology Function",
+        "name_internal": "technology_function",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d0253244527ec3ce0cfb645",
+        "name": "Technology Interaction",
+        "name_internal": "technology_interaction",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d024d2e0c0ba68180711e41",
+        "name": "Technology Interface",
+        "name_internal": "technology_interface",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "5d0251da4527ec3ce0cfb265",
+        "name": "Technology Process",
+        "name_internal": "technology_process",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      },
+      {
+        "id": "53ce2937f04ebf016044422b",
+        "name": "Technology Service",
+        "name_internal": "technology_service",
+        "permissions": [
+          {
+            "key": "can_create_objects",
+            "label": "Can create objects",
+            "access": "read",
+            "position": 0
+          },
+          {
+            "key": "can_delete_objects",
+            "label": "Can delete objects",
+            "access": "read",
+            "position": 1
+          },
+          {
+            "key": "object_properties",
+            "label": "Objectproperties",
+            "access": "read",
+            "position": 2
+          },
+          {
+            "key": "relations",
+            "label": "Relations & Diagram",
+            "access": "read",
+            "position": 3
+          },
+          {
+            "key": "views",
+            "label": "Views",
+            "access": "read",
+            "position": 4
+          }
+        ],
+        "is_default_visible": false,
+        "is_bpmn": false
+      }
+    ]
+  },
+  "request_context": {
+    "application_name": null,
+    "application_type_name": null,
+    "service_name": null,
+    "service_type_name": null,
+    "replica_or_instance_id": null,
+    "node_name": null
+  }
+}
