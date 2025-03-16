@@ -71,7 +71,8 @@ fun main() {
     // init objectDefinitionsPermissionsMap
     val objectDefinitionsPermissionsMap = allObjectDefinitions.values
         .associate { it.id to ObjectDefinitionPermissions(
-            it.id, it.name, it.name_internal, it.object_type,
+            it.id, it.name, it.name_internal,
+            it.is_bpmn, it.object_type,
             objectCountPerObjectDefinitionMap[it.id]!!,
             questionnairesPerObjectDef[it.id]!!)  }
 
@@ -113,6 +114,7 @@ fun main() {
         Cell("object definition id", HEADER_SMALL_ANGLE_STYLE),
         Cell("object type", HEADER_SMALL_ANGLE_STYLE),
         Cell("object type id", HEADER_SMALL_ANGLE_STYLE),
+        Cell("is BPMN", HEADER_ANGLE_STYLE),
         Cell("object questionnaires", HEADER_ANGLE_STYLE),
         Cell("object count", HEADER_ANGLE_STYLE),
         Cell("#non-admin roles with write permissions", HEADER_ANGLE_STYLE)
@@ -135,6 +137,7 @@ fun main() {
             Cell(null, CAT_LONG_STYLE),      // object def ic
             Cell(null, CAT_LONG_STYLE),      // object def type name
             Cell(null, CAT_LONG_STYLE),      // object def type id
+            Cell(null, CAT_STYLE),           // is BPMN
             Cell(null, CAT_LONG_STYLE),      // questionnaire names
             Cell(null, CAT_STYLE),           // object count
             Cell(null, VALUE_STYLE)
@@ -149,6 +152,7 @@ fun main() {
         it.value.forEach{od ->
             val lightCategoryColor = lightenColor(category.color, 0.7f)
             val OD_COLOR_STYLE = mapOf(StyleElement.COLOR to lightCategoryColor)
+            val OD_COLOR_CENTER_STYLE = mapOf(StyleElement.COLOR to lightCategoryColor, StyleElement.CENTER to true)
             val OD_COLOR_SMALL_STYLE = mapOf(StyleElement.COLOR to lightCategoryColor, StyleElement.TEXT_SIZE to 8 )
             val OD_COLOR_LONG_STYLE = mapOf(StyleElement.COLOR to lightCategoryColor, StyleElement.TEXT_SIZE to 8, StyleElement.WRAP_TEXT to true )
             val nonAdminRolesCountWithWritePermissions = od.roleInfoMap.entries
@@ -163,6 +167,7 @@ fun main() {
                 Cell(od.id, OD_COLOR_SMALL_STYLE),
                 Cell(od.type.name_internal, OD_COLOR_SMALL_STYLE),
                 Cell(od.type.template_id, OD_COLOR_SMALL_STYLE),
+                Cell(if(od.is_bpmn) "x" else "", OD_COLOR_CENTER_STYLE),
                 Cell(od.objectQuestionnaireNames.joinToString("\n"), OD_COLOR_LONG_STYLE),
                 Cell(objectCount, OD_COLOR_STYLE),
                 Cell(nonAdminRoleCount, VALUE_STYLE)
@@ -196,7 +201,8 @@ fun main() {
     columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * DETAILS_WIDTH)
     columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * DETAILS_WIDTH)
     columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * DETAILS_WIDTH)
-    columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * PERMISSIONS_WIDTH)
+    columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * DETAILS_WIDTH)
+    columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * VALUE_WIDTH)   // is BPMN
     columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * VALUE_WIDTH, StyleElement.BORDER_RIGHT to true)
     columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * VALUE_WIDTH, StyleElement.BORDER_RIGHT to true)
     repeat(sortedRoleDetails.size) {
@@ -234,6 +240,7 @@ data class ObjectDefinitionPermissions (
     val id: String,
     val name: String,
     val name_internal: String?,
+    val is_bpmn: Boolean,
     val type: ObjectDefinitionTypeUI,
     var objectCount:Int = 0,
     var objectQuestionnaireNames: List<String> = listOf(),

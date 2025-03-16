@@ -16,3 +16,6 @@ target/
 ### generated files
 *.xlsx
 *.csv
+/src/main/resources/role-details/
+/src/main/resources/*.csv
+/src/main/resources/*.json

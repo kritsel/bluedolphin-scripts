@@ -9,15 +9,7 @@ import java.awt.Color
 import java.io.File
 import java.util.*
 
-//const val NAME: String = "name"
-//const val BOLD:String = "bold"
-//const val COLOR:String = "color"
-//const val ANGLE: String = "angle"
-//const val TEXT_SIZE: String = "text-size"
-//const val BORDER_RIGHT: String = "border-right"
-//const val WRAP_TEXT: String = "wrap-text"
-//const val CENTER: String = "center"
-//val WIDTH = "width"
+// See the main function at the bottom for an example of how to use the ExcelGenerator
 
 class ExcelGenerator : FileGenerator {
 

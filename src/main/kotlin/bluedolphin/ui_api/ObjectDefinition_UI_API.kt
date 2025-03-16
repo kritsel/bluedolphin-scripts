@@ -105,7 +105,8 @@ data class ObjectDefinitionUI(
     val name: String,
     val name_internal: String?,
     val color: String?,
-    val object_type: ObjectDefinitionTypeUI
+    val object_type: ObjectDefinitionTypeUI,
+    val is_bpmn: Boolean
 )
 
 @Serializable
