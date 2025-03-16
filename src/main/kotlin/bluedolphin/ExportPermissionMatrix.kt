@@ -201,8 +201,8 @@ fun main() {
     columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * DETAILS_WIDTH)
     columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * DETAILS_WIDTH)
     columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * DETAILS_WIDTH)
-    columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * DETAILS_WIDTH)
     columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * VALUE_WIDTH)   // is BPMN
+    columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * PERMISSIONS_WIDTH) // questionnaires
     columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * VALUE_WIDTH, StyleElement.BORDER_RIGHT to true)
     columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * VALUE_WIDTH, StyleElement.BORDER_RIGHT to true)
     repeat(sortedRoleDetails.size) {
