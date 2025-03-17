@@ -73,7 +73,14 @@ class ExcelGenerator : FileGenerator {
                 colConfig[StyleElement.BORDER_RIGHT]
                     ?.let {
                         val range = CellRangeAddress (0, data.size-1, colNo, colNo)
-                        RegionUtil.setBorderRight(BorderStyle.THICK, range, workSheet);
+                        if (it.equals("strong"))
+                            RegionUtil.setBorderRight(BorderStyle.THICK, range, workSheet);
+                        else if (it.equals("minimal")) {
+                            RegionUtil.setBorderRight(BorderStyle.THIN, range, workSheet);
+                            RegionUtil.setRightBorderColor(IndexedColors.GREY_25_PERCENT.index.toInt(), range, workSheet);
+                        }
+                        else if (it.equals("strong"))
+                            RegionUtil.setBorderRight(BorderStyle.THIN, range, workSheet);
                     }
             }
         }

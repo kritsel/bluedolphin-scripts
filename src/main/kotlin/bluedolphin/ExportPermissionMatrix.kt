@@ -28,13 +28,16 @@ import java.time.format.DateTimeFormatter
  *          (omit the 'Bearer ' part)
  */
 fun main() {
+    // when test is true, only a limited number of object definitions and roles are included
+    // to save time
     val test = false
+
     // company managed windows laptop --> use Windows truststore
     trustStoreMagic()
 
     // based on the order in which categories (a.k.a. layers) are displayed on https://bluedolphin.app/kramp/settings/display
     val categoryOrder = listOf("generic_layer",  "motivationextension", "strategy_layer",
-        "migrationimplementationextension", "bpmn", "business_layer", "application_layer", "technology_layer",
+        "migrationimplementationextension", "business_layer", "bpmn", "application_layer", "technology_layer",
         "physical_layer", "logical_data_dictionary")
     val categoryPrefixMap = mapOf(
         "generic_layer" to "GEN",  "motivationextension" to "MOT", "strategy_layer" to "STRAT",
@@ -131,6 +134,11 @@ fun main() {
         val category = categoryMap[it.key]!!
         val CAT_STYLE:StyleConfig = mutableMapOf(StyleElement.BOLD to true, StyleElement.COLOR to category.color)
         val CAT_LONG_STYLE = mapOf(StyleElement.COLOR to category.color, StyleElement.TEXT_SIZE to 8, StyleElement.WRAP_TEXT to true)
+        val lightCategoryColor = lightenColor(category.color, 0.7f)
+        val OD_COLOR_STYLE = mapOf(StyleElement.COLOR to lightCategoryColor)
+        val OD_COLOR_CENTER_STYLE = mapOf(StyleElement.COLOR to lightCategoryColor, StyleElement.CENTER to true)
+        val OD_COLOR_SMALL_STYLE = mapOf(StyleElement.COLOR to lightCategoryColor, StyleElement.TEXT_SIZE to 8 )
+        val OD_COLOR_LONG_STYLE = mapOf(StyleElement.COLOR to lightCategoryColor, StyleElement.TEXT_SIZE to 8, StyleElement.WRAP_TEXT to true )
 
         val categoryRowData = mutableListOf(
             Cell(category.category, CAT_STYLE),    // object def name
@@ -150,11 +158,6 @@ fun main() {
         data.add(categoryRowData)
         // iterate over the object definitions in this category
         it.value.forEach{od ->
-            val lightCategoryColor = lightenColor(category.color, 0.7f)
-            val OD_COLOR_STYLE = mapOf(StyleElement.COLOR to lightCategoryColor)
-            val OD_COLOR_CENTER_STYLE = mapOf(StyleElement.COLOR to lightCategoryColor, StyleElement.CENTER to true)
-            val OD_COLOR_SMALL_STYLE = mapOf(StyleElement.COLOR to lightCategoryColor, StyleElement.TEXT_SIZE to 8 )
-            val OD_COLOR_LONG_STYLE = mapOf(StyleElement.COLOR to lightCategoryColor, StyleElement.TEXT_SIZE to 8, StyleElement.WRAP_TEXT to true )
             val nonAdminRolesCountWithWritePermissions = od.roleInfoMap.entries
                 .filter{allRoleDetails[it.key]?.internal_name != "administrators"}
                 .filter{it.value.permissions.count{p -> p.access == "write"} > 0}.size
@@ -197,18 +200,18 @@ fun main() {
     val VALUE_WIDTH = 7
     var colNo = 0
     val columnStyleConfig:MutableMap<Int, StyleConfig> = mutableMapOf()
-    columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * NAME_WIDTH)
-    columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * DETAILS_WIDTH)
-    columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * DETAILS_WIDTH)
-    columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * DETAILS_WIDTH)
-    columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * VALUE_WIDTH)   // is BPMN
-    columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * PERMISSIONS_WIDTH) // questionnaires
-    columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * VALUE_WIDTH, StyleElement.BORDER_RIGHT to true)
-    columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * VALUE_WIDTH, StyleElement.BORDER_RIGHT to true)
+    columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * NAME_WIDTH, StyleElement.BORDER_RIGHT to "minimal")
+    columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * DETAILS_WIDTH, StyleElement.BORDER_RIGHT to "minimal")
+    columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * DETAILS_WIDTH, StyleElement.BORDER_RIGHT to "minimal")
+    columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * DETAILS_WIDTH, StyleElement.BORDER_RIGHT to "minimal")
+    columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * VALUE_WIDTH, StyleElement.BORDER_RIGHT to "minimal")   // is BPMN
+    columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * PERMISSIONS_WIDTH, StyleElement.BORDER_RIGHT to "minimal") // questionnaires
+    columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * VALUE_WIDTH, StyleElement.BORDER_RIGHT to "strong")
+    columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * VALUE_WIDTH, StyleElement.BORDER_RIGHT to "strong")
     repeat(sortedRoleDetails.size) {
         columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * VALUE_WIDTH)
         columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * VALUE_WIDTH)
-        columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * PERMISSIONS_WIDTH, StyleElement.BORDER_RIGHT to true)
+        columnStyleConfig[colNo++] = mutableMapOf(StyleElement.WIDTH to 256 * PERMISSIONS_WIDTH, StyleElement.BORDER_RIGHT to "strong")
     }
 
     println()
