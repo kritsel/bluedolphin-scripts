@@ -13,7 +13,7 @@ import java.util.*
 
 class ExcelGenerator : FileGenerator {
 
-    override fun generateFile(file: File, data: List<List<Cell>>, columnStyleConfig:MutableMap<Int, StyleConfig>?) {
+    override fun generateFile(file: File, data: List<List<Cell>>, columnStyleConfig:MutableMap<Int, StyleConfig>?, freezePaneAt:Pair<Int?, Int?>?) {
         val workbook = XSSFWorkbook()
         val workSheet = workbook.createSheet()
 
@@ -90,8 +90,11 @@ class ExcelGenerator : FileGenerator {
             CellRangeAddress(0, 0, 0, data[0].size - 1)
         )
 
-        // freeze pane (freeze top row and first column)
-        workSheet.createFreezePane(1, 1);
+        // freeze pane
+        // todo: freeze at row or column when only freezePaneAt.first or second has a value
+        if (freezePaneAt != null && freezePaneAt.first != null && freezePaneAt.second != null) {
+            workSheet.createFreezePane(freezePaneAt.first!!, freezePaneAt.second!!);
+        }
 
         workbook.write(file.outputStream())
         workbook.close()

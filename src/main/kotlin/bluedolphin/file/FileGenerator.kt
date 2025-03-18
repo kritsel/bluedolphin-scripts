@@ -3,7 +3,7 @@ package bluedolphin.file
 import java.io.File
 
 interface FileGenerator {
-    fun generateFile(file: File, data:List<List<Cell>>, columnStyleConfig:MutableMap<Int, StyleConfig>? = null)
+    fun generateFile(file: File, data:List<List<Cell>>, columnStyleConfig:MutableMap<Int, StyleConfig>? = null, freezePaneAt:Pair<Int?, Int?>? = null)
 }
 
 data class Cell (

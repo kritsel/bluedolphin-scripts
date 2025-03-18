@@ -115,8 +115,8 @@ fun main() {
     val headerRow = mutableListOf(
         Cell("object definition", HEADER_STYLE),
         Cell("object definition id", HEADER_SMALL_ANGLE_STYLE),
-        Cell("object type", HEADER_SMALL_ANGLE_STYLE),
-        Cell("object type id", HEADER_SMALL_ANGLE_STYLE),
+        Cell("object base type", HEADER_SMALL_ANGLE_STYLE),
+        Cell("object base type id", HEADER_SMALL_ANGLE_STYLE),
         Cell("is BPMN", HEADER_ANGLE_STYLE),
         Cell("object questionnaires", HEADER_ANGLE_STYLE),
         Cell("object count", HEADER_ANGLE_STYLE),
@@ -196,7 +196,7 @@ fun main() {
     // specify column widths and borders
     val NAME_WIDTH = 25
     val DETAILS_WIDTH = 8
-    val PERMISSIONS_WIDTH = 13
+    val PERMISSIONS_WIDTH = 14
     val VALUE_WIDTH = 7
     var colNo = 0
     val columnStyleConfig:MutableMap<Int, StyleConfig> = mutableMapOf()
@@ -218,7 +218,7 @@ fun main() {
     println("*********************************************************************************************************")
     println("* generate Excel file")
     val formattedDate = LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd"))
-    ExcelGenerator().generateFile(File("BlueDolphin permission matrix ${formattedDate}.xlsx"), data, columnStyleConfig )
+    ExcelGenerator().generateFile(File("BlueDolphin permission matrix ${formattedDate}.xlsx"), data, columnStyleConfig, freezePaneAt = Pair(1, 1) )
 }
 
 val HEADER_STYLE = mapOf(StyleElement.BOLD to true)
